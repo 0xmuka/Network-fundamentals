@@ -314,15 +314,15 @@ Understanding these models equips you with a solid foundation for network commun
 
 ### DOD
 
-![Untitled](Web-infrastructure-design/Untitled.png)
+![Untitled](assets/Untitled.png)
 
 ### OSI (CLNS)
 
-![Untitled](Web-infrastructure-design/Untitled%201.png)
+![Untitled](assets/Untitled%201.png)
 
 ### TCP/IP (IPv4)
 
-![Untitled](Web-infrastructure-design/Untitled%202.png)
+![Untitled](assets/Untitled%202.png)
 
 ## Reference Model VS Protocol Suite
 
@@ -371,7 +371,7 @@ While the OSI model isn't a direct implementation plan, it has significantly inf
 
 # All People Seems To Need Data Processing
 
-![Untitled](Web-infrastructure-design/Untitled%203.png)
+![Untitled](assets/Untitled%203.png)
 
 The OSI Model, also known as the Open Systems Interconnection Model, is a conceptual framework that defines how network communication should occur. It's a foundational concept in understanding how data travels across networks.
 
@@ -647,7 +647,7 @@ By understanding TCP and UDP, you can make informed decisions about which protoc
 
 ## **TCP Segment Format**
 
-![Untitled](Web-infrastructure-design/Untitled%204.png)
+![Untitled](assets/Untitled%204.png)
 
 - **Source port address:** It is used to define the address of the application program in a source computer. It is a 16-bit field.
 - **Destination port address:** It is used to define the address of the application program in a destination computer. It is a 16-bit field.
@@ -705,7 +705,7 @@ By using a 4-way handshake, both devices can ensure all data is exchanged and re
 
 ![https://www.guru99.com/images/1/092119_0753_TCP3WayHand2.png](https://www.guru99.com/images/1/092119_0753_TCP3WayHand2.png)
 
-![Untitled](Web-infrastructure-design/Untitled%205.png)
+![Untitled](assets/Untitled%205.png)
 
 ## Network Layer
 
@@ -806,11 +806,11 @@ In essence, the physical layer plays a critical role in network communication. I
 | Frame | Data Link | Data Link |
 | Bits | Physical | Physical |
 
-![Untitled](Web-infrastructure-design/Untitled%206.png)
+![Untitled](assets/Untitled%206.png)
 
-![Untitled](Web-infrastructure-design/Untitled%207.png)
+![Untitled](assets/Untitled%207.png)
 
-![Untitled](Web-infrastructure-design/Untitled%208.png)
+![Untitled](assets/Untitled%208.png)
 
 ### Data
 
@@ -923,7 +923,7 @@ By understanding the strengths and weaknesses of each model, you can make an inf
 
 ## Port numbers
 
-![Untitled](Web-infrastructure-design/Untitled%209.png)
+![Untitled](assets/Untitled%209.png)
 
 Port numbers are vital for communication on networks, acting like numbered doorways for different services and applications. They work alongside IP addresses to ensure data reaches the right program on a device.
 
@@ -1133,7 +1133,7 @@ Here's a breakdown of DHCP functionalities:
 5. **Configuration and Renewal:** The client device configures its network settings based on the received information. Before the lease expires, the client typically sends a DHCPRENEW message to the server to request an extension of the lease for the same IP address.
 6. **Lease Expiration:** If the client doesn't renew the lease or becomes inactive for a certain period, the server reclaims the IP address and adds it back to the available pool for future assignments.
 
-![Untitled](Web-infrastructure-design/Untitled%2010.png)
+![Untitled](assets/Untitled%2010.png)
 
 **Benefits of DHCP:**
 
