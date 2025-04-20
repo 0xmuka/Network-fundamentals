@@ -1,4 +1,4 @@
-# Web infrastructure design
+# Network Fundamentals 
 
 > **وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ**
 > 
